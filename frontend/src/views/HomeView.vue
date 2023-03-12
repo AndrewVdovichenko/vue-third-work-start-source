@@ -32,6 +32,45 @@
       </div>
 
       <!-- Колонки и задачи -->
+      <div class="desk__columns">
+        <div class="column">
+          <h2 class="column__name">Название колонки</h2>
+          <div class="column__target-area">
+
+            <!-- Задачи -->
+            <div class="column__task">
+              <div class="task">
+
+                <div class="task__user">
+                  <div class="task__avatar">
+                    <img src="" alt="задача" width="20" height="20">
+                  </div>
+                  Пользователь задачи
+                </div>
+
+                <div class="task__statuses">
+                  <span class="task__status" />
+                  <span class="task__status" />
+                </div>
+
+                <h5 class="task__title">
+                  Наименование задачи
+                </h5>
+
+                <ul class="task_tags">
+                  <li>
+                    <span class="tag tag--blue">
+                      Тег задачи
+                    </span>
+                  </li>
+                </ul>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Пустая доска -->
     </section>
   </main>
