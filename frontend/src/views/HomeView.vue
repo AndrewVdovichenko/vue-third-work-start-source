@@ -72,6 +72,10 @@
       </div>
 
       <!-- Пустая доска -->
+      <p class="desk__emptiness">
+        Пока нет ни одной колонки
+      </p>
+
     </section>
   </main>
 </template>
